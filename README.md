@@ -1,14 +1,14 @@
 Delivarables:
 
-Model Folder
+Model Folder  -  deep learning model 
 
-label_map.pbtxt
+label_map.pbtxt  -  labels for detection
 
-image_eval.py
+image_eval.py   -   image inference script
 
-video_eval.py
+video_eval.py   -  video inference script
 
-generate_record.py
+generate_tfrecord.py - script to generate record file from pascalvoc xml label file.
 
 For Infering Image: python image_eval.py -I path-to-image -M path-to-model -L path-to-label
 
