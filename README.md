@@ -1,6 +1,10 @@
 Delivarables:
 
 Model Folder
+label_map.pbtxt
+image_eval.py
+video_eval.py
+generate_record.py
 
 For Infering Image: python image_eval.py -I path-to-image -M path-to-model -L path-to-label
 
