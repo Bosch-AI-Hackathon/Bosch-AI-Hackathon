@@ -1,18 +1,3 @@
-item {
-    id: 1
-    name: 'furniture'
-}
-
-item {
-    id: 2
-    name: 'cable'
-}
-item {
-    id: 3
-    name: 'door'
-}
-
-item {
-    id: 4
-    name: 'garment'
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:50aa961eb5de8dafe969724978ff0bf52c0bb705ef4925bce4af1181131786b9
+size 171
